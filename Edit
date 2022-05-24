@@ -38,13 +38,13 @@ flagcolor = input("Now that that's settled, what colour be your flag matey? I've
 if flagcolor == "Brown":
     print("Ahoy! Now there be a colour that'll strike fear into the hearts of even the most mangy of seadogs!")
 
-if flagcolor == "Green":
+Elif flagcolor == "Green":
     print("Ahoy! Now there be a colour that'll strike fear into the hearts of even the most mangy of seadogs!")
 
-if flagcolor == "Red":
+Elif flagcolor == "Red":
     print("Ahoy! Now there be a colour that'll strike fear into the hearts of even the most mangy of seadogs!")
 
-if flagcolor == "Purple":
+Elif flagcolor == "Purple":
     print("Ahoy! Now there be a colour that'll strike fear into the hearts of even the most mangy of seadogs!")
 
 #asking the user what emblem should be on their flag
