@@ -1,7 +1,7 @@
 #asking for the users name
 name = input("Yar! Ahoy there! Nice to meet you...er...what's your name fellow sailor? ==> ")
 
-print("Well it sure is nice to make your acquaintance, cap'n "+Str(name)+"!")
+print("Well it sure is nice to make your acquaintance, cap'n "+str(name)+"!")
 
 #asking the user if they would like to build a ship.
 buildaship = input("So, what do you say sailor, do you want to build a ship? Aye or nay? ==> ")
